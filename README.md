@@ -1,7 +1,5 @@
 Repo for managing the many different sketches of the craft-con-glove
 
-Join the #craft-con-glove channel on slack for more help and info!
-
 # One-Time Setup
 
 1. Download Arduino IDE: https://www.arduino.cc/en/Main/Software
@@ -104,3 +102,5 @@ function simulate() {
 ```
 
 where `simulateMode` is a `const` of value either `1` or `0` depending on if I want to inject the simulated movement or not.
+
+DM me on instagram @slimxiedy if you have questions.
